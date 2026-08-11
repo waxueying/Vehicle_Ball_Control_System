@@ -1,0 +1,29 @@
+# Keil MDK-ARM 编译产物
+MDK-ARM/HAL_oled/*.o
+MDK-ARM/HAL_oled/*.crf
+MDK-ARM/HAL_oled/*.d
+MDK-ARM/HAL_oled/*.axf
+MDK-ARM/HAL_oled/*.hex
+MDK-ARM/HAL_oled/*.map
+MDK-ARM/HAL_oled/*.lnp
+MDK-ARM/HAL_oled/*.htm
+MDK-ARM/HAL_oled/*.iex
+MDK-ARM/HAL_oled/*.dep
+MDK-ARM/HAL_oled/*.sct
+MDK-ARM/HAL_oled/*.build_log.htm
+
+# Keil 列表文件 / 启动汇编产物
+MDK-ARM/*.lst
+
+# Keil 用户界面布局与日志
+MDK-ARM/*.uvguix.*
+MDK-ARM/uv4.log
+MDK-ARM/uv4.log.lock
+MDK-ARM/keil-assistant.log
+MDK-ARM/.vscode/
+
+# J-Link 调试配置
+MDK-ARM/DebugConfig/
+
+# VS Code 本地设置
+.vscode/
