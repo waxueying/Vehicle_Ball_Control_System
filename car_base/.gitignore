@@ -1,0 +1,17 @@
+# Build output
+build/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+
+# SysConfig temp
+.sysconfig_tmp/
+.sysconfig_backup/
+
+# IDE
+.vscode/
+.DS_Store
+Thumbs.db
